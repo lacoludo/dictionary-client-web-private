@@ -1,0 +1,60 @@
+{
+  "name": "tamil.monster-dictionary-client-web-private",
+  "private": true,
+  "description": "",
+  "version": "0.1.0",
+  "author": "Ludovic Lacouture <lacoludo@outlook.com>",
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.3",
+    "apollo-boost": "^0.4.7",
+    "bootstrap": "^4.4.1",
+    "graphql": "^14.6.0",
+    "graphql-tag": "^2.10.3",
+    "react": "^16.13.0",
+    "react-apollo": "^3.1.3",
+    "react-dom": "^16.13.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "keywords": [
+    "tamil",
+    "monster",
+    "dictionary",
+    "client",
+    "web",
+    "private"
+  ],
+  "license": "",
+  "scripts": {
+    "build": "react-scripts build",
+    "develop": "",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "react-scripts start",
+    "serve": "",
+    "clean": "",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lacoludo/tamil.monster-client-web-private"
+  },
+  "bugs": {
+    "url": "https://github.com/lacoludo/tamil.monster-client-web-private/issues"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
