@@ -12,7 +12,7 @@ import WordUpdate from './word/word-update.component'
 import * as serviceWorker from './serviceWorker'
 
 const client = new ApolloClient({
-  uri: 'http://localhost:4000/graphql'
+  uri: 'https://tamil-monster-dictionary.herokuapp.com/graphql'
 })
 
 ReactDOM.render(
